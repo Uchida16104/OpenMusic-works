@@ -2,7 +2,7 @@ Schema for strings, cembalo, ryuteki, and samplers
 
 This music was composed by OpenMusic(https://forum.ircam.fr/projects/detail/openmusic/), and being used overtones made by spectral analysis, chance music, chaos theory, minimalism music, retrograde canon.
 
-I inform in advance the accident that maybe the sound is distorted at the end of the video.
+I inform in advance the accident that maybe the sound is distorted at the end of video.
 
 Instruments
 1. Strings (Violin, Viola, Cello, Contrabass)
