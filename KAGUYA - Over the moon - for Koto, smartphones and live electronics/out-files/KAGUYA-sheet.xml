@@ -1,0 +1,3629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 1.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise>
+	<identification>
+		<encoding>
+			<software>OM 6.17</software>
+		</encoding>
+	</identification>
+	<part-list>
+		<score-part id="P1">
+			<part-name>Part 1</part-name>
+			<score-instrument id="P1-I1">
+			</score-instrument>
+			<midi-instrument id="P1-I1">
+			<midi-channel>1</midi-channel>
+			</midi-instrument>
+		</score-part>
+	</part-list>
+<!--===================================================================-->
+	<part id="P1">
+			<measure number="1">
+				<attributes>
+					<divisions>6</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>12</beats>
+						<beat-type>8</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>2</octave>
+					</pitch>
+					<duration>24</duration>
+					<type>whole</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>12</duration>
+					<tie type="start"/>
+					<type>half</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="2">
+				<attributes>
+					<divisions>1</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>4</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="stop"/>
+					<type>whole</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="3">
+				<attributes>
+					<divisions>1</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>2</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>C</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>2</duration>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="4">
+				<attributes>
+					<divisions>1</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>2</beats>
+						<beat-type>2</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>2</duration>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>2</duration>
+					<tie type="start"/>
+					<type>half</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="5">
+				<attributes>
+					<divisions>2</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>3</beats>
+						<beat-type>8</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>3</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>quarter</type><dot/>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="6">
+				<attributes>
+					<divisions>8</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>4</beats>
+						<beat-type>2</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="stop"/>
+					<type>eighth</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>4</actual-notes>
+						<normal-notes>4</normal-notes>
+					</time-modification>
+					<beam>begin</beam>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>12</duration>
+					<tie type="start"/>
+					<type>quarter</type><dot/>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>4</actual-notes>
+						<normal-notes>4</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>16</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>half</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="stop"/>
+					<type>eighth</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>4</actual-notes>
+						<normal-notes>4</normal-notes>
+					</time-modification>
+					<beam>begin</beam>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>C</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>12</duration>
+					<tie type="start"/>
+					<type>quarter</type><dot/>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>4</actual-notes>
+						<normal-notes>4</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>C</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>16</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="7">
+				<attributes>
+					<divisions>24</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>12</beats>
+						<beat-type>8</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>C</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>48</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>C</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>12</duration>
+					<tie type="stop"/>
+					<type>eighth</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>48</duration>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>36</duration>
+					<tie type="start"/>
+					<type>quarter</type><dot/>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="8">
+				<attributes>
+					<divisions>4</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>2</beats>
+						<beat-type>2</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>2</duration>
+					<tie type="stop"/>
+					<type>eighth</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>4</actual-notes>
+						<normal-notes>4</normal-notes>
+					</time-modification>
+					<beam>begin</beam>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>6</duration>
+					<tie type="start"/>
+					<type>quarter</type><dot/>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>4</actual-notes>
+						<normal-notes>4</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>8</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>half</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="9">
+				<attributes>
+					<divisions>14</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>7</beats>
+						<beat-type>8</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>7</duration>
+					<tie type="stop"/>
+					<type>eighth</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<beam>begin</beam>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>42</duration>
+					<tie type="start"/>
+					<type>half</type><dot/>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="10">
+				<attributes>
+					<divisions>3</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>3</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>3</duration>
+					<tie type="stop"/>
+					<type>quarter</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>6</duration>
+					<tie type="start"/>
+					<type>half</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="11">
+				<attributes>
+					<divisions>1</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>4</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="stop"/>
+					<type>whole</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="12">
+				<attributes>
+					<divisions>1</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>2</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>2</duration>
+					<type>half</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="13">
+				<attributes>
+					<divisions>18</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>9</beats>
+						<beat-type>8</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>36</duration>
+					<type>half</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>36</duration>
+					<tie type="start"/>
+					<type>half</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>9</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>eighth</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<beam>end</beam>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="14">
+				<attributes>
+					<divisions>14</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>7</beats>
+						<beat-type>8</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>21</duration>
+					<tie type="stop"/>
+					<type>quarter</type><dot/>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>C</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>28</duration>
+					<tie type="start"/>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="15">
+				<attributes>
+					<divisions>2</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>4</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>C</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="stop"/>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="start"/>
+					<type>half</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="16">
+				<attributes>
+					<divisions>3</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>6</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>12</duration>
+					<tie type="stop"/>
+					<type>whole</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>6</duration>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="17">
+				<attributes>
+					<divisions>3</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>3</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>6</duration>
+					<type>half</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>3</duration>
+					<tie type="start"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="18">
+				<attributes>
+					<divisions>4</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>4</beats>
+						<beat-type>2</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>8</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="stop"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>C</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="start"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>C</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>8</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>C</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="stop"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="start"/>
+					<type>quarter</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="19">
+				<attributes>
+					<divisions>4</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>4</beats>
+						<beat-type>2</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>16</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>whole</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="stop"/>
+					<type>quarter</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>2</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="start"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>2</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="stop"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="start"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="20">
+				<attributes>
+					<divisions>4</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>4</beats>
+						<beat-type>2</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="stop"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="start"/>
+					<type>quarter</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>8</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>half</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="stop"/>
+					<type>quarter</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="start"/>
+					<type>quarter</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>8</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>half</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="21">
+				<attributes>
+					<divisions>4</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>4</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="stop"/>
+					<type>quarter</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>2</octave>
+					</pitch>
+					<duration>12</duration>
+					<tie type="start"/>
+					<type>half</type><dot/>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="22">
+				<attributes>
+					<divisions>6</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>6</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>2</octave>
+					</pitch>
+					<duration>18</duration>
+					<tie type="stop"/>
+					<type>half</type><dot/>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>12</duration>
+					<type>half</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>2</octave>
+					</pitch>
+					<duration>6</duration>
+					<tie type="start"/>
+					<type>quarter</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="23">
+				<attributes>
+					<divisions>2</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>2</beats>
+						<beat-type>2</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>2</octave>
+					</pitch>
+					<duration>2</duration>
+					<tie type="stop"/>
+					<type>quarter</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>2</duration>
+					<tie type="start"/>
+					<type>quarter</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>half</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="24">
+				<attributes>
+					<divisions>4</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>4</beats>
+						<beat-type>2</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="stop"/>
+					<type>quarter</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="start"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>8</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="stop"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>C</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="start"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>C</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>8</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="25">
+				<attributes>
+					<divisions>5</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>5</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>C</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>15</duration>
+					<tie type="stop"/>
+					<type>half</type><dot/>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>10</duration>
+					<type>half</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="26">
+				<attributes>
+					<divisions>1</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>2</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>C</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>2</duration>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="27">
+				<attributes>
+					<divisions>1</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>4</beats>
+						<beat-type>2</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>4</duration>
+					<type>whole</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>4</duration>
+					<type>whole</type>
+					<instrument id="P1-I1"/>
+					<notations>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="28">
+				<attributes>
+					<divisions>1</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>3</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>3</duration>
+					<tie type="start"/>
+					<type>half</type><dot/>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="29">
+				<attributes>
+					<divisions>1</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>2</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>2</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>half</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="30">
+				<attributes>
+					<divisions>6</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>6</beats>
+						<beat-type>8</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>6</duration>
+					<tie type="stop"/>
+					<type>quarter</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>12</duration>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="31">
+				<attributes>
+					<divisions>6</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>6</beats>
+						<beat-type>8</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>12</duration>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>6</duration>
+					<tie type="start"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="32">
+				<attributes>
+					<divisions>1</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>2</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>2</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="33">
+				<attributes>
+					<divisions>3</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>3</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>3</duration>
+					<tie type="stop"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>6</duration>
+					<tie type="start"/>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="34">
+				<attributes>
+					<divisions>6</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>6</beats>
+						<beat-type>8</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>12</duration>
+					<tie type="stop"/>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>6</duration>
+					<tie type="start"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="35">
+				<attributes>
+					<divisions>1/2</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>2</beats>
+						<beat-type>2</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>2</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>whole</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="36">
+				<attributes>
+					<divisions>3</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>3</beats>
+						<beat-type>2</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>3</duration>
+					<tie type="stop"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>C</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>3</duration>
+					<tie type="start"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>C</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>3</duration>
+					<tie type="stop"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>0</octave>
+					</pitch>
+					<duration>3</duration>
+					<tie type="start"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>0</octave>
+					</pitch>
+					<duration>3</duration>
+					<tie type="stop"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>C</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>3</duration>
+					<tie type="start"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="37">
+				<attributes>
+					<divisions>2</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>2</beats>
+						<beat-type>2</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>C</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>C</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>2</duration>
+					<tie type="stop"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>1</octave>
+					</pitch>
+					<duration>2</duration>
+					<tie type="start"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="38">
+				<attributes>
+					<divisions>2</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>6</beats>
+						<beat-type>8</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>1</octave>
+					</pitch>
+					<duration>6</duration>
+					<tie type="stop"/>
+					<type>half</type><dot/>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="39">
+				<attributes>
+					<divisions>1</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>3</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>C</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>3</duration>
+					<tie type="start"/>
+					<type>half</type><dot/>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="40">
+				<attributes>
+					<divisions>12</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>12</beats>
+						<beat-type>8</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>C</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>36</duration>
+					<tie type="stop"/>
+					<type>half</type><dot/>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>C</step>
+						<alter>0</alter>
+						<octave>2</octave>
+					</pitch>
+					<duration>24</duration>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>12</duration>
+					<tie type="start"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="41">
+				<attributes>
+					<divisions>6</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>6</beats>
+						<beat-type>8</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>6</duration>
+					<tie type="stop"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>2</octave>
+					</pitch>
+					<duration>12</duration>
+					<tie type="start"/>
+					<type>half</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="42">
+				<attributes>
+					<divisions>3</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>3</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>2</octave>
+					</pitch>
+					<duration>6</duration>
+					<tie type="stop"/>
+					<type>half</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>3</duration>
+					<tie type="start"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="43">
+				<attributes>
+					<divisions>4</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>4</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>12</duration>
+					<tie type="stop"/>
+					<type>half</type><dot/>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>C</step>
+						<alter>0</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="start"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="44">
+				<attributes>
+					<divisions>3</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>3</beats>
+						<beat-type>2</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>C</step>
+						<alter>0</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>12</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>whole</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>C</step>
+						<alter>0</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>3</duration>
+					<tie type="stop"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>3</duration>
+					<tie type="start"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="45">
+				<attributes>
+					<divisions>18</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>9</beats>
+						<beat-type>8</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>18</duration>
+					<tie type="stop"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>36</duration>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>27</duration>
+					<tie type="start"/>
+					<type>quarter</type><dot/>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="46">
+				<attributes>
+					<divisions>6</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>3</beats>
+						<beat-type>2</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>12</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>3</duration>
+					<tie type="stop"/>
+					<type>eighth</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>4</actual-notes>
+						<normal-notes>4</normal-notes>
+					</time-modification>
+					<beam>begin</beam>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>9</duration>
+					<tie type="start"/>
+					<type>quarter</type><dot/>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>4</actual-notes>
+						<normal-notes>4</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>12</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>half</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="47">
+				<attributes>
+					<divisions>24</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>12</beats>
+						<beat-type>8</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>12</duration>
+					<tie type="stop"/>
+					<type>eighth</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<beam>begin</beam>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>96</duration>
+					<tie type="start"/>
+					<type>whole</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>36</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>quarter</type><dot/>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="48">
+				<attributes>
+					<divisions>8</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>4</beats>
+						<beat-type>2</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="stop"/>
+					<type>eighth</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>4</actual-notes>
+						<normal-notes>4</normal-notes>
+					</time-modification>
+					<beam>begin</beam>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>12</duration>
+					<tie type="start"/>
+					<type>quarter</type><dot/>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>4</actual-notes>
+						<normal-notes>4</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="stop"/>
+					<type>eighth</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>4</actual-notes>
+						<normal-notes>4</normal-notes>
+					</time-modification>
+					<beam>begin</beam>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>12</duration>
+					<tie type="start"/>
+					<type>quarter</type><dot/>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>4</actual-notes>
+						<normal-notes>4</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="stop"/>
+					<type>eighth</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>4</actual-notes>
+						<normal-notes>4</normal-notes>
+					</time-modification>
+					<beam>begin</beam>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>12</duration>
+					<tie type="start"/>
+					<type>quarter</type><dot/>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>4</actual-notes>
+						<normal-notes>4</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>16</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="49">
+				<attributes>
+					<divisions>10</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>5</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>5</duration>
+					<tie type="stop"/>
+					<type>eighth</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>2</actual-notes>
+						<normal-notes>2</normal-notes>
+					</time-modification>
+					<beam>begin</beam>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>1</octave>
+					</pitch>
+					<duration>5</duration>
+					<tie type="start"/>
+					<type>eighth</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>2</actual-notes>
+						<normal-notes>2</normal-notes>
+					</time-modification>
+					<beam>end</beam>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>1</octave>
+					</pitch>
+					<duration>30</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>half</type><dot/>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>1</octave>
+					</pitch>
+					<duration>5</duration>
+					<tie type="stop"/>
+					<type>eighth</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>2</actual-notes>
+						<normal-notes>2</normal-notes>
+					</time-modification>
+					<beam>begin</beam>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>5</duration>
+					<tie type="start"/>
+					<type>eighth</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>2</actual-notes>
+						<normal-notes>2</normal-notes>
+					</time-modification>
+					<beam>end</beam>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="50">
+				<attributes>
+					<divisions>1</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>2</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>2</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="51">
+				<attributes>
+					<divisions>18</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>9</beats>
+						<beat-type>8</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>63</duration>
+					<tie type="stop"/>
+					<type>half</type><dot/><dot/>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>1</octave>
+					</pitch>
+					<duration>18</duration>
+					<tie type="start"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="52">
+				<attributes>
+					<divisions>3</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>3</beats>
+						<beat-type>2</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>1</octave>
+					</pitch>
+					<duration>3</duration>
+					<tie type="stop"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>3</duration>
+					<tie type="start"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>3</duration>
+					<tie type="stop"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>-1</octave>
+					</pitch>
+					<duration>3</duration>
+					<tie type="start"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>1</actual-notes>
+						<normal-notes>1</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>-1</octave>
+					</pitch>
+					<duration>6</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="53">
+				<attributes>
+					<divisions>18</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>9</beats>
+						<beat-type>8</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>-1</octave>
+					</pitch>
+					<duration>18</duration>
+					<tie type="stop"/>
+					<type>quarter</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>63</duration>
+					<tie type="start"/>
+					<type>half</type><dot/><dot/>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="54">
+				<attributes>
+					<divisions>4</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>2</beats>
+						<beat-type>2</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>2</duration>
+					<tie type="stop"/>
+					<type>eighth</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>4</actual-notes>
+						<normal-notes>4</normal-notes>
+					</time-modification>
+					<beam>begin</beam>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>0</octave>
+					</pitch>
+					<duration>6</duration>
+					<tie type="start"/>
+					<type>quarter</type><dot/>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>4</actual-notes>
+						<normal-notes>4</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>0</octave>
+					</pitch>
+					<duration>8</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="55">
+				<attributes>
+					<divisions>4</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>2</beats>
+						<beat-type>2</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>0</octave>
+					</pitch>
+					<duration>8</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>0</alter>
+						<octave>0</octave>
+					</pitch>
+					<duration>2</duration>
+					<tie type="stop"/>
+					<type>eighth</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>4</actual-notes>
+						<normal-notes>4</normal-notes>
+					</time-modification>
+					<beam>begin</beam>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>6</duration>
+					<tie type="start"/>
+					<type>quarter</type><dot/>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>4</actual-notes>
+						<normal-notes>4</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="56">
+				<attributes>
+					<divisions>4</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>2</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>2</duration>
+					<tie type="stop"/>
+					<type>eighth</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>2</actual-notes>
+						<normal-notes>2</normal-notes>
+					</time-modification>
+					<beam>begin</beam>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>1</octave>
+					</pitch>
+					<duration>2</duration>
+					<tie type="start"/>
+					<type>eighth</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>2</actual-notes>
+						<normal-notes>2</normal-notes>
+					</time-modification>
+					<beam>end</beam>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>1</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>quarter</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="57">
+				<attributes>
+					<divisions>4</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>2</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>1</octave>
+					</pitch>
+					<duration>2</duration>
+					<tie type="stop"/>
+					<type>eighth</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>2</actual-notes>
+						<normal-notes>2</normal-notes>
+					</time-modification>
+					<beam>begin</beam>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>2</duration>
+					<tie type="start"/>
+					<type>eighth</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>2</actual-notes>
+						<normal-notes>2</normal-notes>
+					</time-modification>
+					<beam>end</beam>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>quarter</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="58">
+				<attributes>
+					<divisions>6</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>3</beats>
+						<beat-type>2</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>12</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>half</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>3</duration>
+					<tie type="stop"/>
+					<type>eighth</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>4</actual-notes>
+						<normal-notes>4</normal-notes>
+					</time-modification>
+					<beam>begin</beam>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>2</octave>
+					</pitch>
+					<duration>9</duration>
+					<tie type="start"/>
+					<type>quarter</type><dot/>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>4</actual-notes>
+						<normal-notes>4</normal-notes>
+					</time-modification>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>2</octave>
+					</pitch>
+					<duration>12</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>half</type>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="59">
+				<attributes>
+					<divisions>4</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>2</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>2</octave>
+					</pitch>
+					<duration>2</duration>
+					<tie type="stop"/>
+					<type>eighth</type>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>2</actual-notes>
+						<normal-notes>2</normal-notes>
+					</time-modification>
+					<beam>begin</beam>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>2</duration>
+					<tie type="start"/>
+					<type>eighth</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>2</actual-notes>
+						<normal-notes>2</normal-notes>
+					</time-modification>
+					<beam>end</beam>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>4</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>quarter</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="60">
+				<attributes>
+					<divisions>10</divisions>
+					<key>
+						<fifths>0</fifths>
+					</key>
+					<time>
+						<beats>5</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>40</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>whole</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>1</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>5</duration>
+					<tie type="stop"/>
+					<type>eighth</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>2</actual-notes>
+						<normal-notes>2</normal-notes>
+					</time-modification>
+					<beam>begin</beam>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>2</octave>
+					</pitch>
+					<duration>5</duration>
+					<type>eighth</type>
+					<accidental>sharp</accidental>
+					<instrument id="P1-I1"/>
+					<time-modification>
+						<actual-notes>2</actual-notes>
+						<normal-notes>2</normal-notes>
+					</time-modification>
+					<beam>end</beam>
+					<notations>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+	<!--=======================================================-->
+	</part>
+</score-partwise>
