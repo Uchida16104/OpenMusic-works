@@ -8,13 +8,9 @@ Instruments
 1. Harps (how many the instruments you use is undefined)
 2. DJ (prepared sounds by recording or sampling)
 
-hearthis.at
+[hearthis.at](https://hearthis.at/hirotoshi-uchida/change-and-illusion-for-harps-and-dj/)
 
-https://hearthis.at/hirotoshi-uchida/change-and-illusion-for-harps-and-dj/
-
-YouTube
-
-https://youtu.be/74HPaX7bHmU
+[YouTube](https://youtu.be/74HPaX7bHmU)
 
 *You should use .mp3 files after converting to .wav files .
 
