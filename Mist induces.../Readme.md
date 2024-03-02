@@ -11,7 +11,7 @@ Instruments
 
 [hearthis.at](https://hearthis.at/hirotoshi-uchida-2nd/mist-induces-for-woodwind-trio-guitar-and-live-electronics/)
 
-[YouTube](https://youtu.be/nWcqGcZHUxs)
+[YouTube](https://www.youtube.com/watch?v=A9CF5Rm3Axk)
 
 2nd. Mar. 2024
 
