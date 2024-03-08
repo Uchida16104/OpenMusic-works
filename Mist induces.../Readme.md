@@ -7,7 +7,7 @@ Instruments
 1. Flute
 2. Clarinet
 3. Oboe
-4. Live Electronics (Using Ring Modulation, Frequency Shifter, Delay,Reverb)
+4. Live Electronics (Using Ring Modulation, Frequency Shifter, Delay, Reverb)
 
 [hearthis.at](https://hearthis.at/hirotoshi-uchida-2nd/mist-induces-for-woodwind-trio-guitar-and-live-electronics/)
 
