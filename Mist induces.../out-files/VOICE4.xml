@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 1.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise>
+	<identification>
+		<encoding>
+			<software>OM 7.3</software>
+		</encoding>
+	</identification>
+	<part-list>
+		<score-part id="P1">
+			<part-name>Part 1</part-name>
+			<score-instrument id="P1-I1">
+				<instrument-name>MusicXML Default 1</instrument-name>
+			</score-instrument>
+			<midi-instrument id="P1-I1">
+			<midi-channel>1</midi-channel>
+			</midi-instrument>
+		</score-part>
+	</part-list>
+<!--===================================================================-->
+	<part id="P1">
+			<measure number="1">
+				<attributes>
+					<divisions>260066336</divisions>
+					<key>
+						<fifths>0</fifths>
+						<mode>major</mode>
+					</key>
+					<time>
+						<beats>23</beats>
+						<beat-type>128</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="89">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>16254146</duration>
+					<tie type="start"/>
+					<type>64th</type>
+					<beam>begin</beam>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>2453456</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>512th</type>
+					<time-modification>
+						<actual-notes>53</actual-notes>
+						<normal-notes>64</normal-notes>
+					</time-modification>
+					<beam>begin</beam>
+					<notations>
+						<tuplet bracket="yes" number="1" placement="above" type="start">
+							<tuplet-actual>
+								<tuplet-number>53</tuplet-number>
+								<tuplet-type>nil</tuplet-type>
+							</tuplet-actual>
+							<tuplet-normal>
+								<tuplet-number>64</tuplet-number>
+								<tuplet-type>nil</tuplet-type>
+							</tuplet-normal>
+						</tuplet>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>920046</duration>
+					<tie type="stop"/>
+					<type>nil</type><dot/>
+					<time-modification>
+						<actual-notes>53</actual-notes>
+						<normal-notes>64</normal-notes>
+					</time-modification>
+					<beam>continue</beam>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>3680184</duration>
+					<tie type="start"/>
+					<type>512th</type><dot/>
+					<time-modification>
+						<actual-notes>53</actual-notes>
+						<normal-notes>64</normal-notes>
+					</time-modification>
+					<beam>continue</beam>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>1073387</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>nil</type><dot/><dot/>
+					<time-modification>
+						<actual-notes>53</actual-notes>
+						<normal-notes>64</normal-notes>
+					</time-modification>
+					<beam>end</beam>
+					<notations>
+						<tuplet number="1" type="stop"/>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>8127073</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>128th</type>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>3992064</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>512th</type><dot/>
+					<time-modification>
+						<actual-notes>3127</actual-notes>
+						<normal-notes>4096</normal-notes>
+					</time-modification>
+					<beam>begin</beam>
+					<notations>
+						<tuplet bracket="yes" number="1" placement="above" type="start">
+							<tuplet-actual>
+								<tuplet-number>3127</tuplet-number>
+								<tuplet-type>nil</tuplet-type>
+							</tuplet-actual>
+							<tuplet-normal>
+								<tuplet-number>4096</tuplet-number>
+								<tuplet-type>nil</tuplet-type>
+							</tuplet-normal>
+						</tuplet>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>665344</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>nil</type>
+					<time-modification>
+						<actual-notes>3127</actual-notes>
+						<normal-notes>4096</normal-notes>
+					</time-modification>
+					<beam>continue</beam>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>83168</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>nil</type>
+					<time-modification>
+						<actual-notes>3127</actual-notes>
+						<normal-notes>4096</normal-notes>
+					</time-modification>
+					<beam>continue</beam>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>10396</duration>
+					<tie type="stop"/>
+					<type>nil</type>
+					<time-modification>
+						<actual-notes>3127</actual-notes>
+						<normal-notes>4096</normal-notes>
+					</time-modification>
+					<beam>continue</beam>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>2661376</duration>
+					<tie type="start"/>
+					<type>512th</type>
+					<time-modification>
+						<actual-notes>3127</actual-notes>
+						<normal-notes>4096</normal-notes>
+					</time-modification>
+					<beam>continue</beam>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>665344</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>nil</type>
+					<time-modification>
+						<actual-notes>3127</actual-notes>
+						<normal-notes>4096</normal-notes>
+					</time-modification>
+					<beam>continue</beam>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>41584</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>nil</type>
+					<time-modification>
+						<actual-notes>3127</actual-notes>
+						<normal-notes>4096</normal-notes>
+					</time-modification>
+					<beam>continue</beam>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>7797</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>nil</type><dot/>
+					<time-modification>
+						<actual-notes>3127</actual-notes>
+						<normal-notes>4096</normal-notes>
+					</time-modification>
+					<beam>end</beam>
+					<notations>
+						<tuplet number="1" type="stop"/>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>4521984</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>256th</type><dot/>
+					<time-modification>
+						<actual-notes>353351</actual-notes>
+						<normal-notes>262144</normal-notes>
+					</time-modification>
+					<beam>begin</beam>
+					<notations>
+						<tuplet bracket="yes" number="1" placement="above" type="start">
+							<tuplet-actual>
+								<tuplet-number>353351</tuplet-number>
+								<tuplet-type>nil</tuplet-type>
+							</tuplet-actual>
+							<tuplet-normal>
+								<tuplet-number>262144</tuplet-number>
+								<tuplet-type>nil</tuplet-type>
+							</tuplet-normal>
+						</tuplet>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>1130496</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>1024th</type><dot/>
+					<time-modification>
+						<actual-notes>353351</actual-notes>
+						<normal-notes>262144</normal-notes>
+					</time-modification>
+					<beam>continue</beam>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>141312</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>nil</type><dot/>
+					<time-modification>
+						<actual-notes>353351</actual-notes>
+						<normal-notes>262144</normal-notes>
+					</time-modification>
+					<beam>continue</beam>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>35328</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>nil</type><dot/>
+					<time-modification>
+						<actual-notes>353351</actual-notes>
+						<normal-notes>262144</normal-notes>
+					</time-modification>
+					<beam>continue</beam>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>552</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>nil</type><dot/>
+					<time-modification>
+						<actual-notes>353351</actual-notes>
+						<normal-notes>262144</normal-notes>
+					</time-modification>
+					<beam>continue</beam>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>92</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>nil</type>
+					<time-modification>
+						<actual-notes>353351</actual-notes>
+						<normal-notes>262144</normal-notes>
+					</time-modification>
+					<beam>continue</beam>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>E</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>23</duration>
+					<tie type="stop"/>
+					<type>nil</type>
+					<time-modification>
+						<actual-notes>353351</actual-notes>
+						<normal-notes>262144</normal-notes>
+					</time-modification>
+					<beam>continue</beam>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>2260992</duration>
+					<tie type="start"/>
+					<type>512th</type><dot/>
+					<time-modification>
+						<actual-notes>353351</actual-notes>
+						<normal-notes>262144</normal-notes>
+					</time-modification>
+					<beam>continue</beam>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>35328</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>nil</type><dot/>
+					<time-modification>
+						<actual-notes>353351</actual-notes>
+						<normal-notes>262144</normal-notes>
+					</time-modification>
+					<beam>continue</beam>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>736</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>nil</type>
+					<time-modification>
+						<actual-notes>353351</actual-notes>
+						<normal-notes>262144</normal-notes>
+					</time-modification>
+					<beam>continue</beam>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>184</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>nil</type>
+					<time-modification>
+						<actual-notes>353351</actual-notes>
+						<normal-notes>262144</normal-notes>
+					</time-modification>
+					<beam>continue</beam>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>46</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>nil</type>
+					<time-modification>
+						<actual-notes>353351</actual-notes>
+						<normal-notes>262144</normal-notes>
+					</time-modification>
+					<beam>end</beam>
+					<notations>
+						<tuplet number="1" type="stop"/>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>130033168</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>eighth</type>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>8127073</duration>
+					<tie type="stop"/>
+					<type>128th</type>
+					<beam>end</beam>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+	<!--=======================================================-->
+	</part>
+</score-partwise>
