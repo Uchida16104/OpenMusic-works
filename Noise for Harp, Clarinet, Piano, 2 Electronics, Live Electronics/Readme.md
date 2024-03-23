@@ -3,7 +3,6 @@
 I composed Music by the following instruments, tools or methods.
 
 **Instruments**
-
 * Harp
 * Clarinet
 * Piano
@@ -11,7 +10,6 @@ I composed Music by the following instruments, tools or methods.
 * Live Electronics
 
 **Tools**
-
 * OpenMusic
 * MuseScore
 * Surge XT
@@ -23,14 +21,12 @@ I composed Music by the following instruments, tools or methods.
 * LilyPond
 
 **Effects (for Live Electronics)**
-
 * Frequency Shifter
 * Ring Modulator
 * Delay
 * Reverb
 
 **Method**
-
 * Serial Music
 * Sound Processing
 
