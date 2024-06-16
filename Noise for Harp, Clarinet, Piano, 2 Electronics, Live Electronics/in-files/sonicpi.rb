@@ -1,4 +1,4 @@
-dist="/path/to/Dist/in-files/"
+dist="/path/to/Noise/in-files/"
 pi=Math::PI.round
 pipowe=pi.pow(Math::E).round
 use_random_seed pipowe
