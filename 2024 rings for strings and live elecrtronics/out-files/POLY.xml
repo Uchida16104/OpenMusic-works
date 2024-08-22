@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 1.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise>
+	<identification>
+		<encoding>
+			<software>OM 7.3</software>
+		</encoding>
+	</identification>
+	<part-list>
+		<score-part id="P1">
+			<part-name>Part 1</part-name>
+			<score-instrument id="P1-I1">
+				<instrument-name>MusicXML Default 1</instrument-name>
+			</score-instrument>
+			<midi-instrument id="P1-I1">
+			<midi-channel>1</midi-channel>
+			</midi-instrument>
+		</score-part>
+		<score-part id="P2">
+			<part-name>Part 2</part-name>
+			<score-instrument id="P2-I1">
+				<instrument-name>MusicXML Default 1</instrument-name>
+			</score-instrument>
+			<midi-instrument id="P2-I1">
+			<midi-channel>1</midi-channel>
+			</midi-instrument>
+		</score-part>
+	</part-list>
+<!--===================================================================-->
+	<part id="P1">
+			<measure number="1">
+				<attributes>
+					<divisions>256</divisions>
+					<key>
+						<fifths>0</fifths>
+						<mode>major</mode>
+					</key>
+					<time>
+						<beats>2024</beats>
+						<beat-type>256</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>2024</duration>
+					<type>whole</type>
+					<time-modification>
+						<actual-notes>128</actual-notes>
+						<normal-notes>253</normal-notes>
+					</time-modification>
+					<notations>
+						<tuplet bracket="yes" number="1" placement="above" type="start">
+							<tuplet-actual>
+								<tuplet-number>128</tuplet-number>
+								<tuplet-type>32nd</tuplet-type>
+							</tuplet-actual>
+							<tuplet-normal>
+								<tuplet-number>253</tuplet-number>
+								<tuplet-type>32nd</tuplet-type>
+							</tuplet-normal>
+						</tuplet>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>2</octave>
+					</pitch>
+					<duration>2024</duration>
+					<type>whole</type>
+					<accidental>sharp</accidental>
+					<time-modification>
+						<actual-notes>128</actual-notes>
+						<normal-notes>253</normal-notes>
+					</time-modification>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>2024</duration>
+					<type>whole</type>
+					<time-modification>
+						<actual-notes>128</actual-notes>
+						<normal-notes>253</normal-notes>
+					</time-modification>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>2024</duration>
+					<type>whole</type>
+					<time-modification>
+						<actual-notes>128</actual-notes>
+						<normal-notes>253</normal-notes>
+					</time-modification>
+					<notations>
+						<tuplet number="1" type="stop"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="2">
+				<attributes>
+					<divisions>256</divisions>
+					<key>
+						<fifths>0</fifths>
+						<mode>major</mode>
+					</key>
+					<time>
+						<beats>2024</beats>
+						<beat-type>256</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>2024</duration>
+					<type>whole</type>
+					<accidental>sharp</accidental>
+					<time-modification>
+						<actual-notes>128</actual-notes>
+						<normal-notes>253</normal-notes>
+					</time-modification>
+					<notations>
+						<tuplet bracket="yes" number="1" placement="above" type="start">
+							<tuplet-actual>
+								<tuplet-number>128</tuplet-number>
+								<tuplet-type>32nd</tuplet-type>
+							</tuplet-actual>
+							<tuplet-normal>
+								<tuplet-number>253</tuplet-number>
+								<tuplet-type>32nd</tuplet-type>
+							</tuplet-normal>
+						</tuplet>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>0</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>2024</duration>
+					<type>whole</type>
+					<time-modification>
+						<actual-notes>128</actual-notes>
+						<normal-notes>253</normal-notes>
+					</time-modification>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>2024</duration>
+					<type>whole</type>
+					<time-modification>
+						<actual-notes>128</actual-notes>
+						<normal-notes>253</normal-notes>
+					</time-modification>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>2024</duration>
+					<type>whole</type>
+					<accidental>sharp</accidental>
+					<time-modification>
+						<actual-notes>128</actual-notes>
+						<normal-notes>253</normal-notes>
+					</time-modification>
+					<notations>
+						<tuplet number="1" type="stop"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+	<!--=======================================================-->
+	</part>
+	<part id="P2">
+			<measure number="1">
+				<attributes>
+					<divisions>16192</divisions>
+					<key>
+						<fifths>0</fifths>
+						<mode>major</mode>
+					</key>
+					<time>
+						<beats>2024</beats>
+						<beat-type>256</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>16192</duration>
+					<type>quarter</type>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>2</octave>
+					</pitch>
+					<duration>32384</duration>
+					<type>half</type>
+					<accidental>sharp</accidental>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>48576</duration>
+					<type>half</type><dot/>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>64768</duration>
+					<tie type="start"/>
+					<type>whole</type>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>0</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>16192</duration>
+					<tie type="stop"/>
+					<type>quarter</type>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>113344</duration>
+					<type>whole</type><dot/><dot/>
+					<accidental>sharp</accidental>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>0</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>129536</duration>
+					<tie type="start"/>
+					<type>breve</type>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>F</step>
+						<alter>0</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>48576</duration>
+					<tie type="stop"/>
+					<type>half</type><dot/>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>32384</duration>
+					<tie type="start"/>
+					<type>half</type>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>8096</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>eighth</type>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>2024</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>32nd</type>
+					<beam>end</beam>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="2">
+				<attributes>
+					<divisions>16192</divisions>
+					<key>
+						<fifths>0</fifths>
+						<mode>major</mode>
+					</key>
+					<time>
+						<beats>2024</beats>
+						<beat-type>256</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>129536</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>breve</type>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>32384</duration>
+					<tie type="stop"/><tie type="start"/>
+					<type>half</type>
+					<notations>
+						<tied type="stop"/><tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>6072</duration>
+					<tie type="stop"/>
+					<type>16th</type><dot/>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>259072</duration>
+					<tie type="start"/>
+					<type>nil</type>
+					<accidental>sharp</accidental>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>5</octave>
+					</pitch>
+					<duration>16192</duration>
+					<tie type="stop"/>
+					<type>quarter</type>
+					<accidental>sharp</accidental>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note>
+				<rest/>
+					<duration>64768</duration>
+					<type>whole</type>
+						<notations>
+						</notations>
+				</note>
+				<note>
+				<rest/>
+					<duration>4048</duration>
+					<type>16th</type>
+						<beam>end</beam>
+						<notations>
+						</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+	<!--=======================================================-->
+	</part>
+</score-partwise>

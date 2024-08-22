@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 1.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise>
+	<identification>
+		<encoding>
+			<software>OM 7.2</software>
+		</encoding>
+	</identification>
+	<part-list>
+		<score-part id="P1">
+			<part-name>Part 1</part-name>
+			<score-instrument id="P1-I1">
+				<instrument-name>MusicXML Default 1</instrument-name>
+			</score-instrument>
+			<midi-instrument id="P1-I1">
+			<midi-channel>1</midi-channel>
+			</midi-instrument>
+		</score-part>
+	</part-list>
+<!--===================================================================-->
+	<part id="P1">
+			<measure number="1">
+				<attributes>
+					<divisions>12</divisions>
+					<key>
+						<fifths>0</fifths>
+						<mode>major</mode>
+					</key>
+					<time>
+						<beats>6</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>1</alter>
+						<octave>0</octave>
+					</pitch>
+					<duration>48</duration>
+					<tie type="start"/>
+					<type>whole</type>
+					<accidental>sharp</accidental>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>D</step>
+						<alter>1</alter>
+						<octave>0</octave>
+					</pitch>
+					<duration>6</duration>
+					<tie type="stop"/>
+					<type>eighth</type>
+					<accidental>sharp</accidental>
+					<time-modification>
+						<actual-notes>2</actual-notes>
+						<normal-notes>2</normal-notes>
+					</time-modification>
+					<beam>begin</beam>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+				<note>
+				<rest/>
+					<duration>6</duration>
+					<type>eighth</type>
+						<time-modification>
+							<actual-notes>2</actual-notes>
+							<normal-notes>2</normal-notes>
+						</time-modification>
+						<beam>end</beam>
+						<notations>
+						</notations>
+				</note>
+				<note>
+				<rest/>
+					<duration>12</duration>
+					<type>quarter</type>
+						<notations>
+						</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="2">
+				<attributes>
+					<divisions>18</divisions>
+					<key>
+						<fifths>0</fifths>
+						<mode>major</mode>
+					</key>
+					<time>
+						<beats>9</beats>
+						<beat-type>8</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note>
+				<rest/>
+					<duration>72</duration>
+					<type>whole</type>
+						<notations>
+						</notations>
+				</note>
+				<note>
+				<rest/>
+					<duration>9</duration>
+					<type>eighth</type>
+						<beam>end</beam>
+						<notations>
+						</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+	<!--=======================================================-->
+	</part>
+</score-partwise>

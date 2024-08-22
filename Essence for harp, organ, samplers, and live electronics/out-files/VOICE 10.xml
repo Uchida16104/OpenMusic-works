@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 1.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise>
+	<identification>
+		<encoding>
+			<software>OM 7.2</software>
+		</encoding>
+	</identification>
+	<part-list>
+		<score-part id="P1">
+			<part-name>Part 1</part-name>
+			<score-instrument id="P1-I1">
+				<instrument-name>MusicXML Default 1</instrument-name>
+			</score-instrument>
+			<midi-instrument id="P1-I1">
+			<midi-channel>1</midi-channel>
+			</midi-instrument>
+		</score-part>
+	</part-list>
+<!--===================================================================-->
+	<part id="P1">
+			<measure number="1">
+				<attributes>
+					<divisions>5</divisions>
+					<key>
+						<fifths>0</fifths>
+						<mode>major</mode>
+					</key>
+					<time>
+						<beats>5</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>G</step>
+						<alter>1</alter>
+						<octave>0</octave>
+					</pitch>
+					<duration>10</duration>
+					<type>half</type>
+					<accidental>sharp</accidental>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>1</octave>
+					</pitch>
+					<duration>15</duration>
+					<tie type="start"/>
+					<type>half</type><dot/>
+					<accidental>sharp</accidental>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+			<measure number="2">
+				<attributes>
+					<divisions>1</divisions>
+					<key>
+						<fifths>0</fifths>
+						<mode>major</mode>
+					</key>
+					<time>
+						<beats>2</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="111">
+					<pitch>
+						<step>A</step>
+						<alter>1</alter>
+						<octave>1</octave>
+					</pitch>
+					<duration>2</duration>
+					<tie type="stop"/>
+					<type>half</type>
+					<accidental>sharp</accidental>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+	<!--=======================================================-->
+	</part>
+</score-partwise>

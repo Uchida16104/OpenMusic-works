@@ -1,0 +1,6 @@
+(defun create-slur (notes)
+  (let ((chord (make-omr-chord)))
+    (dolist (note notes)
+      (add-note-to-chord chord note))
+    (add-slur-to-chord chord)
+    chord))

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 1.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise>
+	<identification>
+		<encoding>
+			<software>OM 7.3</software>
+		</encoding>
+	</identification>
+	<part-list>
+		<score-part id="P1">
+			<part-name>Part 1</part-name>
+			<score-instrument id="P1-I1">
+				<instrument-name>MusicXML Default 1</instrument-name>
+			</score-instrument>
+			<midi-instrument id="P1-I1">
+			<midi-channel>1</midi-channel>
+			</midi-instrument>
+		</score-part>
+	</part-list>
+<!--===================================================================-->
+	<part id="P1">
+			<measure number="1">
+				<attributes>
+					<divisions>43</divisions>
+					<key>
+						<fifths>0</fifths>
+						<mode>major</mode>
+					</key>
+					<time>
+						<beats>43</beats>
+						<beat-type>4</beat-type>
+					</time>
+					<clef>
+						<sign>G</sign>
+						<line>2</line>
+					</clef>
+				</attributes>
+				<note dynamics="89">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>3</octave>
+					</pitch>
+					<duration>516</duration>
+					<type>breve</type><dot/>
+					<notations>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>1032</duration>
+					<tie type="start"/>
+					<type>nil</type><dot/>
+					<notations>
+						<tied type="start"/>
+					</notations>
+				</note>
+				<note dynamics="89">
+					<pitch>
+						<step>A</step>
+						<alter>0</alter>
+						<octave>4</octave>
+					</pitch>
+					<duration>301</duration>
+					<tie type="stop"/>
+					<type>whole</type><dot/><dot/>
+					<notations>
+						<tied type="stop"/>
+					</notations>
+				</note>
+			</measure>
+			<!--=======================================================-->
+	<!--=======================================================-->
+	</part>
+</score-partwise>
