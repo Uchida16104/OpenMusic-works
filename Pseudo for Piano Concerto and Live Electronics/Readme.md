@@ -18,3 +18,7 @@ And it shows [Automatic Music Generation System](https://github.com/Uchida16104/
 |10|[Largo](https://github.com/Uchida16104/OpenMusic-works/blob/main/Pseudo%20for%20Piano%20Concerto%20and%20Live%20Electronics/out-files/Pseudo%20for%20Piano%20Concerto%20and%20Live%20Electronics%20-%2010.%20Largo.pdf)|Piano, Strings, Woodwinds, and Brass (Piano Concerto)|Ritornello Form have been to the accident.|Reverb, Delay, Ring Modulator, and Frequency Shifter|
 |11|[Andante](https://github.com/Uchida16104/OpenMusicworks/blob/main/Pseudo%20for%20Piano%20Concerto%20and%20Live%20Electronics/out-files/Pseudo%20for%20Piano%20Concerto%20and%20Live%20Electronics%20-%2011.%20Andante.pdf)|Piano, Strings, Woodwinds, Brass, and Harp (Piano Concerto)|(Retrograde) Canon Form|Reverb, Delay, Ring Modulator, and Frequency Shifter|
 |12|[Allegretto](https://github.com/Uchida16104/OpenMusic-works/blob/main/Pseudo%20for%20Piano%20Concerto%20and%20Live%20Electronics/out-files/Pseudo%20for%20Piano%20Concerto%20and%20Live%20Electronics%20-%2012.%20Allegretto.pdf)|Piano, Strings, Woodwinds, Brass, and Harp (Piano Concerto)|Fugue Form|Reverb, Delay, Ring Modulator, Frequency Shifter|
+
+18th. Aug. 2024
+
+by Hirotoshi Uchida
