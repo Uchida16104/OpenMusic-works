@@ -2,6 +2,8 @@
 
 These are a music that I made by [OpenMusic](https://forum.ircam.fr/projects/detail/openmusic/).
 
+And it shows [Automatic Music Generation System](https://github.com/Uchida16104/OpenMusic-works/tree/main/Pseudo%20for%20Piano%20Concerto%20and%20Live%20Electronics) (need to prepare from the [Library](https://github.com/orgs/openmusic-project/repositories)).
+
 |No.|Title|Instruments|Forms|Effects(as Live Electronics)|
 |:- |:- |:- |:- |:- |
 |1|[Grave](https://github.com/Uchida16104/OpenMusic-works/blob/main/Pseudo%20for%20Piano%20Concerto%20and%20Live%20Electronics/out-files/Pseudo%20for%20Piano%20Concerto%20and%20Live%20Electronics%20-%201.%20Grave.pdf)|Piano, Violins, and Violincellos (Piano Trio)|One Part Form|Reverb, Ring Modulator, Frequency Shifter, and Delay|
