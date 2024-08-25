@@ -4,7 +4,12 @@ These are a music that I made by [OpenMusic](https://forum.ircam.fr/projects/det
 
 And it shows [Automatic Music Generation System](https://github.com/Uchida16104/OpenMusic-works/tree/main/Pseudo%20for%20Piano%20Concerto%20and%20Live%20Electronics/elements) (need to prepare from the [Library](https://github.com/orgs/openmusic-project/repositories)).
 
-## Track List
+<details><summary>
+  
+  ## Track List
+  
+</summary>
+  
 |No.|Title|Instruments|Forms|
 |:- |:- |:- |:- |
 |<p id="no1">1</p>|[Grave](https://github.com/Uchida16104/OpenMusic-works/blob/main/Pseudo%20for%20Piano%20Concerto%20and%20Live%20Electronics/out-files/Pseudo%20for%20Piano%20Concerto%20and%20Live%20Electronics%20-%201.%20Grave.pdf)|Piano, Violins, and Violincellos (Piano Trio)|One Part Form|
@@ -20,7 +25,13 @@ And it shows [Automatic Music Generation System](https://github.com/Uchida16104/
 |<p id="no11">11</p>|[Andante](https://github.com/Uchida16104/OpenMusicworks/blob/main/Pseudo%20for%20Piano%20Concerto%20and%20Live%20Electronics/out-files/Pseudo%20for%20Piano%20Concerto%20and%20Live%20Electronics%20-%2011.%20Andante.pdf)|Piano, Strings, Woodwinds, Brass, and Harp (Piano Concerto)|(Retrograde) Canon Form|
 |<p id="no12">12|[Allegretto](https://github.com/Uchida16104/OpenMusic-works/blob/main/Pseudo%20for%20Piano%20Concerto%20and%20Live%20Electronics/out-files/Pseudo%20for%20Piano%20Concerto%20and%20Live%20Electronics%20-%2012.%20Allegretto.pdf)|Piano, Strings, Woodwinds, Brass, and Harp (Piano Concerto)|Fugue Form|
 
+</details>
+
+<details><summary>
+  
 ## Effects (As Live Electronics)
+
+</summary>
 
 |No.|Ring Modulator|Frequency Shifter|Reverb|Delay|Chorus|Vocoder|Rotary|De-Ess|Pitch Fix|Noise Gate|Simple EQ|Compress|
 |:- |:- |:- |:- |:- |:- |:- |:- |:- |:- |:- |:- |:- |
@@ -37,6 +48,7 @@ And it shows [Automatic Music Generation System](https://github.com/Uchida16104/
 |[11](#no11)| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||||||||
 |[12](#no12)| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||||||||
 
+</details>
 
 18th. Aug. 2024
 
