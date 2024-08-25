@@ -20,9 +20,9 @@ And it shows [Automatic Music Generation System](https://github.com/Uchida16104/
 |<p id="no11">11</p>|[Andante](https://github.com/Uchida16104/OpenMusicworks/blob/main/Pseudo%20for%20Piano%20Concerto%20and%20Live%20Electronics/out-files/Pseudo%20for%20Piano%20Concerto%20and%20Live%20Electronics%20-%2011.%20Andante.pdf)|Piano, Strings, Woodwinds, Brass, and Harp (Piano Concerto)|(Retrograde) Canon Form|
 |<p id="no12">12|[Allegretto](https://github.com/Uchida16104/OpenMusic-works/blob/main/Pseudo%20for%20Piano%20Concerto%20and%20Live%20Electronics/out-files/Pseudo%20for%20Piano%20Concerto%20and%20Live%20Electronics%20-%2012.%20Allegretto.pdf)|Piano, Strings, Woodwinds, Brass, and Harp (Piano Concerto)|Fugue Form|
 
-## Effects(as Live Electronics)
+## Effects (as Live Electronics)
 
-|No.|Ring Modulator|Frequency Shifter|Reverb|Delay|Chorus|Vocoder|Rotary|De-Ess|Pitchfix|Noise Gate|Simple EQ|Compress|
+|No.|Ring Modulator|Frequency Shifter|Reverb|Delay|Chorus|Vocoder|Rotary|De-Ess|Pitch Fix|Noise Gate|Simple EQ|Compress|
 |:- |:- |:- |:- |:- |:- |:- |:- |:- |:- |:- |:- |:- |
 |[1](#no1)| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||||||||
 |[2](#no2)| :white_check_mark: | :white_check_mark: | :white_check_mark: ||||||||||
