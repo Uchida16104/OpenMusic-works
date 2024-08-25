@@ -1,6 +1,6 @@
 # Pseudo for Piano Concerto and Live Electronics
 
-These are a music that I made by [OpenMusic](https://forum.ircam.fr/projects/detail/openmusic/).
+These are a music that I made by [OpenMusic](https://forum.ircam.fr/projects/detail/openmusic/) and [MuseScore](https://musescore.org/).
 
 And it shows [Automatic Music Generation System](https://github.com/Uchida16104/OpenMusic-works/tree/main/Pseudo%20for%20Piano%20Concerto%20and%20Live%20Electronics/elements) (need to prepare from the [Library](https://github.com/orgs/openmusic-project/repositories)).
 
