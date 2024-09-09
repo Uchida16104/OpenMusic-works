@@ -56,7 +56,7 @@ And it shows [Automatic Music Generation System](https://github.com/Uchida16104/
 
 </summary>
 
-|No.|hearthis.at|YouTube|
+|No.|[hearthis.at](https://hearthis.at/hirotoshi-uchida-3rd/)|[YouTube](https://www.youtube.com/@HirotoshiUchida)|
 |:- |:- |:- |
 |[1](#no1)| [LINK](https://hearthis.at/hirotoshi-uchida-3rd/pseudo-for-piano-concerto-and-live-electronics-1-grave/) | [LINK](https://youtu.be/ZFei4EzMKYc) |
 |[2](#no2)| [LINK](https://hearthis.at/hirotoshi-uchida-3rd/pseudo-for-piano-concerto-and-live-electronics-2-lento/) | [LINK](https://youtu.be/1mdzW27eGq0) |
