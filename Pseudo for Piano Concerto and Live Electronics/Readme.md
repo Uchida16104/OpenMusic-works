@@ -53,6 +53,9 @@ And it shows [Automatic Music Generation System](https://github.com/Uchida16104/
 <details><summary>
   
 ## Distribution Service
+
+</summary>
+
 |No.|hearthis.at|YouTube|
 |:- |:- |:- |
 |[1](#no1)| [LINK](https://hearthis.at/hirotoshi-uchida-3rd/pseudo-for-piano-concerto-and-live-electronics-1-grave/) | [LINK](https://youtu.be/ZFei4EzMKYc) |
@@ -68,7 +71,7 @@ And it shows [Automatic Music Generation System](https://github.com/Uchida16104/
 |[11](#no11)| [LINK](https://hearthis.at/hirotoshi-uchida-3rd/pseudo-for-piano-concerto-and-live-electronics-11-andante/) | [LINK](https://youtu.be/KoSLut9uR3A) |
 |[12](#no12)| [LINK](https://hearthis.at/hirotoshi-uchida-3rd/pseudo-for-piano-concerto-and-live-electronics-12-allegretto/) | [LINK](https://youtu.be/0BI296QeoeE) |
 
-</summary>
+</details>
 
 18th. Aug. 2024
 
