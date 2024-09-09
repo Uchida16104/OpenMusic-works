@@ -50,6 +50,26 @@ And it shows [Automatic Music Generation System](https://github.com/Uchida16104/
 
 </details>
 
+<details><summary>
+  
+## Distribution Service
+|No.|hearthis.at|YouTube|
+|:- |:- |:- |
+|[1](#no1)| [LINK](https://hearthis.at/hirotoshi-uchida-3rd/pseudo-for-piano-concerto-and-live-electronics-1-grave/) | [LINK](https://youtu.be/ZFei4EzMKYc) |
+|[2](#no2)| [LINK](https://hearthis.at/hirotoshi-uchida-3rd/pseudo-for-piano-concerto-and-live-electronics-2-lento/) | [LINK](https://youtu.be/1mdzW27eGq0) |
+|[3](#no3)| [LINK](https://hearthis.at/hirotoshi-uchida-3rd/pseudo-for-piano-concerto-and-live-electronics-3-larghetto/) | [LINK](https://youtu.be/J9bVUCq-UhE) |
+|[4](#no4)| [LINK](https://hearthis.at/hirotoshi-uchida-3rd/pseudo-for-piano-concerto-and-live-electronics-4-adagio/) | [LINK](https://youtu.be/8aSMGYumMgw) |
+|[5](#no5)| [LINK](https://hearthis.at/hirotoshi-uchida-3rd/pseudo-for-piano-concerto-and-live-electronics-5-andantino/) | [LINK](https://youtu.be/WLshZFLCPTw) |
+|[6](#no6)| [LINK](https://hearthis.at/hirotoshi-uchida-3rd/pseudo-for-piano-concerto-and-live-electronics-6-allegro/) | [LINK](https://youtu.be/2Jv-PsUWziI) |
+|[7](#no7)| [LINK](https://hearthis.at/hirotoshi-uchida-3rd/pseudo-for-piano-concerto-and-live-electronics-7-moderato/) | [LINK](https://youtu.be/AAUNUo2-vP0) |
+|[8](#no8)| [LINK](https://hearthis.at/hirotoshi-uchida-3rd/pseudo-for-piano-concerto-and-live-electronics-8-vivace/) | [LINK](https://youtu.be/VLnChiKlzHE) |
+|[9](#no9)| [LINK](https://hearthis.at/hirotoshi-uchida-3rd/pseudo-for-piano-concerto-and-live-electronics-9-presto/) | [LINK](https://youtu.be/cKfy0b7533I) |
+|[10](#no10)| [LINK](https://hearthis.at/hirotoshi-uchida-3rd/pseudo-for-piano-concerto-and-live-electronics-10-largo/) | [LINK](https://youtu.be/rsA0dP1L-MY) |
+|[11](#no11)| [LINK](https://hearthis.at/hirotoshi-uchida-3rd/pseudo-for-piano-concerto-and-live-electronics-11-andante/) | [LINK](https://youtu.be/KoSLut9uR3A) |
+|[12](#no12)| [LINK](https://hearthis.at/hirotoshi-uchida-3rd/pseudo-for-piano-concerto-and-live-electronics-12-allegretto/) | [LINK](https://youtu.be/0BI296QeoeE) |
+
+</summary>
+
 18th. Aug. 2024
 
 by Hirotoshi Uchida
