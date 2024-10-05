@@ -16,7 +16,6 @@ Musical Techniques etc...
 
 Music Streaming
 1. [hearthis.at](https://hearthis.at/hirotoshi-uchida-3rd/dream-for-keyboard-percussions-and-live-electronics/)
-2. [YouTube](https://youtu.be/Ap8cw7tbZvo)
 
 
 on 3rd. Aug. 2024
