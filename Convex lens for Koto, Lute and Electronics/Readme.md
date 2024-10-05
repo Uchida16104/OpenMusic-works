@@ -19,6 +19,7 @@ Effects (as Live Electronics)
 
 Music Streaming
 1. [hearthis.at](https://hearthis.at/hirotoshi-uchida-3rd/convex-lens-for-koto-lute-and-electronics/)
+2. [YouTube](https://youtu.be/-aB-YJN6SsQ)
 
 
 on 29th. Sep. 2024
