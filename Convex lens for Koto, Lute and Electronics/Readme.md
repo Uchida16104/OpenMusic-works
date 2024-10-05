@@ -14,7 +14,7 @@ Musical Techniques
 4. Grand Rondo Form
 5. Microtone
 
-Effects (as Live Electronics) : 
+Effects (as Live Electronics)
 * Reverb
 
 Music Streaming
